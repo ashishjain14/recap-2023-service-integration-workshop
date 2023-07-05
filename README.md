@@ -1,8 +1,8 @@
-#  reCAP 2024: Bringing Service Integration to Your Fingertips
+#  reCAP 2023: Bringing Service Integration to Your Fingertips
 
 ## Description
 
-This repository contains the material for the reCAP 2024 workshop called "Bringing Service Integration to Your Fingertips".
+This repository contains the material for the reCAP 2023 workshop called "Bringing Service Integration to Your Fingertips".
 
 ## Prerequisite
 
