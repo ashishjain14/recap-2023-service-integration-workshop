@@ -25,8 +25,7 @@ Instead we want to use the available Business Partner API to seamlessly connect 
 - [Exercise 2 - Testing the API](exercises/2.-Local-Tests.md)
 - [Exercise 3 - Delegating Requests](exercises/3.-Delegating-Requests.md)
 - [Exercise 4 - Replicating Data](exercises/4.-Replicating-Data.md)
-- [Exercise 5 - Prebuilt Integration Packages](exercises/5.-Prebuilt-Integration-Packages.md)
-- [Summary](exercises/6.-Summary.md)
+- [Summary](exercises/5.-Summary.md)
 
 <!-- />
 Comments
